@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UserPostsJetpackCompose</string>
+    <string name="title_activity_retrofit">RetrofitActivity</string>
+</resources>
